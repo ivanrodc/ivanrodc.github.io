@@ -1,5 +1,5 @@
 ---
-title: "Iván Daniel Rodríguez Cruz"
+title: "Iván Daniel Rodríguez Cruz" # Configuracion general: https://ucsb-meds.github.io/creating-quarto-websites/
 affiliation: "Escuela de Estadística, Universidad de Costa Rica"
 lang: es # Idioma
 image: media/foto_perfil.jpg
