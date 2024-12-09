@@ -1,13 +1,13 @@
 ---
 title: "Iván Daniel Rodríguez Cruz" # Configuracion general: https://ucsb-meds.github.io/creating-quarto-websites/
-affiliation: "Escuela de Estadística, Universidad de Costa Rica"
-lang: es # Idioma
-image: media/foto_perfil.jpg
+affiliation: "School of Statistics, University of Costa Rica"
+lang: en # Idioma
+image: media/foto_perfil.jpg 
 toc: false
 about: 
-  template: solana # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
-  image-shape: round
-  image-width: 17em
+  template: jolla # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
+  #image-shape: round
+  image-width: 15em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -19,26 +19,19 @@ about:
       href: mailto:ivan.rodriguezcruz@ucr.ac.cr
 ---
 
-### This content appears above the formatted about page content.
+Bachelor in Statistics from the University of Costa Rica (UCR), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science.
 
-:::{#hero-heading}
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
 
-## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
 
-:::
 
-### This content appears below the formatted about page content.
+
+
+
+
+

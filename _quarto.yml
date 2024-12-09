@@ -1,22 +1,52 @@
 project:
   type: website 
-  output-dir: docs
+  output-dir: docs 
 
 website:
   title: "Iván Daniel Rodríguez Cruz"
+  page-navigation: true
+  twitter-card: true
+  cookie-consent: 
+     palette: light  
+     style: headline
+     type: implied
+  open-graph:
+    locale: es_ES
+    site-name: Quarto
+    
+    
+  # Opciones para la barra de navegación:  
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    title: "Iván Daniel Rodríguez Cruz" 
+    back-to-top-navigation: false # Dejar fija la barra de navegación.
+    background: "#182A48" # Color de la barra de navegación; color azul de Google.
+    #foreground: "light" # Color del texto en la barra de navegación.
+    search: true
+    position: fixed 
+    pinned: true
+    right:
+      - text: "Contact" 
+        file: documentos/personal/about.qmd
+      - icon: github
+        href: https://github.com/ivanrodc
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/
+
+  page-footer:
+    border: true
+    background: "#E8E8E8"
+    left: "Copyright 2024, Iván Daniel Rodríguez Cruz" 
+    center: 
+      - text: "This page was created with Quarto and Posit."
+        href: https://quarto.org/
 
 format:
   html:
     theme: 
-      light: litera
-      dark: litera
+      light: flatly
+      dark: flatly
     css: styles.css
     toc: true
 
-editor: visual
+editor: visual 
 

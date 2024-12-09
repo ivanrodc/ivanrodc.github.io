@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Iván Daniel Rodríguez Cruz",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "Bachelor in Statistics from the University of Costa Rica (UCR), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the Anker Research Institute and Research Assistant at the Institute of Social Research of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Iván Daniel Rodríguez Cruz",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "University of Costa Rica BSc in Statistics (2020-2024)"
   },
   {
     "objectID": "index.html#experience",
@@ -26,5 +26,19 @@
     "title": "Iván Daniel Rodríguez Cruz",
     "section": "",
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "documentos/personal/about.html",
+    "href": "documentos/personal/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#interest",
+    "href": "index.html#interest",
+    "title": "Iván Daniel Rodríguez Cruz",
+    "section": "",
+    "text": "Inequality and poverty studies\nWage studies\nApplied Multivariate Statistics for the Social Sciences\nData science"
   }
 ]
