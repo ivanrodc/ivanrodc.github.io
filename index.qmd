@@ -1,11 +1,22 @@
 ---
-title: "ivanrodc.github.io"
+title: "Iván Daniel Rodríguez Cruz"
+image: media/foto_perfil.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/ivanrodriguezcruz
+    - text: GitHub
+      href: https://github.com/ivanrodc
+    - text: Email
+      href: mailto:ivan.rodriguezcruz@ucr.ac.cr
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Texto...
 
-```{r}
-1 + 1
-```
+Esto es un ejemplo para la pantalla inicial
