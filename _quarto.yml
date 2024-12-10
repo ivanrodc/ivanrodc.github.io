@@ -2,6 +2,7 @@ project:
   type: website 
   output-dir: docs 
 
+# Aquí se buscan los "icon" para poner: https://icons.getbootstrap.com/
 website:
   title: "Iván Daniel Rodríguez Cruz"
   page-navigation: true
@@ -25,17 +26,21 @@ website:
     position: fixed 
     pinned: true
     right:
-      - text: "Contact" 
-        file: documentos/personal/about.qmd
-      - icon: github
-        href: https://github.com/ivanrodc
       - icon: linkedin 
         href: https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/
+      - icon: github
+        href: https://github.com/ivanrodc
+    left:
+      - text: "CV"
+        file: documentos/personal/about.qmd
+      - text: "Publications"
+      - text: "Talks"
+      - text: "Contact"
 
   page-footer:
     border: true
-    background: "#E8E8E8"
-    left: "Copyright 2024, Iván Daniel Rodríguez Cruz" 
+    background: "#182A48"
+    left: "Copyright 2024-2025, Iván Daniel Rodríguez Cruz" 
     center: 
       - text: "This page was created with Quarto and Posit."
         href: https://quarto.org/

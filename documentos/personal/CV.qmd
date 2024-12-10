@@ -1,0 +1,19 @@
+---
+title: "CV"
+toc: false
+---
+
+# Education 
+
+**University of Costa Rica**, San Pedro de Montes de Oca, San José | 2020 to 2024
+Candidate for B.S. in Statistics (GPA: 3.33/4.0, estimate)
+
+
+---
+
+# Experience
+
+**Anker Research Institute**, New York, NYC | September 2024 to Present
+Junior Research
+-   Estimated the cost of a decent living standard for workers and families using the Anker Methodology across Costa Rica, Indonesia, Malawi, and rural Tanzania, supporting wage-setting policies and improving global living conditions.
+-   Developed global reference values for living incomes and wages and conducted income risk assessments in rural Tanzania, comparing the applicability of the pre-existing reference value for the regions of Shinyanga and Tabora to assess regional disparities.

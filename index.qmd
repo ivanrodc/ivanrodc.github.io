@@ -2,7 +2,7 @@
 title: "Iván Daniel Rodríguez Cruz" # Configuracion general: https://ucsb-meds.github.io/creating-quarto-websites/
 affiliation: "School of Statistics, University of Costa Rica"
 lang: en # Idioma
-image: media/foto_perfil.jpg 
+image: media/foto_perfil.jpg  
 toc: false
 about: 
   template: jolla # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
@@ -15,11 +15,12 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/ivanrodc
-    - text: Email
+    - icon: envelope-at-fill
+      text: Email
       href: mailto:ivan.rodriguezcruz@ucr.ac.cr
 ---
 
-Bachelor in Statistics from the University of Costa Rica (UCR), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science.
+Bachelor in Statistics from the [University of Costa Rica (UCR)](https://www.ucr.ac.cr/), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science.
 
 
 

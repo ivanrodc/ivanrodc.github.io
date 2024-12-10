@@ -1,1 +1,40 @@
 /* css styles */
+
+/* Cambiar la fuente de toda la página a Arial */
+body {
+  font-family: Poppins, sans-serif;
+}
+
+/* Cambiar color de los enlaces */
+a {
+  color: #F8AA0D; /* Color para enlaces normales */
+  text-decoration: none; /* Opcional: elimina el subrayado */
+}
+
+/* Cambiar el color del texto en el navbar */
+.navbar {
+  color: white; /* Cambiar color de texto a blanco */
+}
+
+.navbar a {
+  color: white; /* Cambiar el color de los enlaces en el navbar a blanco */
+  text-decoration: none; /* Opcional: elimina el subrayado de los enlaces */
+}
+
+.navbar a:hover {
+  color: #cccccc; /* Opcional: color más claro al pasar el cursor */
+}
+
+/* Cambiar el color del texto en el footer */
+.page-footer {
+  color: white; /* Cambiar color de texto a blanco */
+}
+
+.page-footer a {
+  color: white; /* Cambiar color de enlaces en el footer a blanco */
+  text-decoration: none; /* Opcional: elimina subrayado */
+}
+
+.page-footer a:hover {
+  color: white; /* Opcional: color más claro al pasar el cursor */
+}
