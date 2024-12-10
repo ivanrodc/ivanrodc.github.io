@@ -24,7 +24,7 @@ website:
     #foreground: "light" # Color del texto en la barra de navegación.
     search: true 
     position: fixed   
-    pinned: true
+    pinned: true 
     right:
       - icon: linkedin 
         href: https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/
@@ -36,11 +36,11 @@ website:
       - documentos/personal/CV.qmd
 
   page-footer:
-    border: true
-    background: "#182A48"
-    left: "Copyright 2024-2025, Iván Daniel Rodríguez Cruz" 
-    center: 
-      - text: "This page was created with Quarto and Posit."
+    border: false
+    background: light
+    left: "{{< bi c-circle size=1em >}} 2024 Iván Daniel Rodríguez Cruz" 
+    right: 
+      - text: "This website is built with {{< bi heart-fill size=1em >}}, {{< bi github size=1em >}}, R and Quarto"
         href: https://quarto.org/
 
 format:

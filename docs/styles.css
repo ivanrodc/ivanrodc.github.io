@@ -1,6 +1,5 @@
 /* css styles */
 
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 /* Cambiar la fuente de toda la página a Arial */
@@ -16,13 +15,14 @@ body, .content {
 
 /* AJUSTAR LOS ICONOS Y TEXTO DEL INDEX.QMD
 
-/* Aumentar el tamaño de los iconos */
-.about-links .about-link-text {
-    font-size: 1.2em; /* Ajusta este valor para aumentar o disminuir el tamaño del texto */
+/* Aumentar el tamaño de los íconos */
+.about-links .about-link-icon {
+    font-size: 5em; /* Ajusta este valor para aumentar o disminuir el tamaño del ícono */
+    margin-bottom: 0.5em; /* Añade espacio debajo del ícono */
 }
 
 .about-links .about-link-icon {
-    font-size: 1.5em; /* Ajusta este valor para aumentar o disminuir el tamaño del ícono */
+    font-size: 5em; /* Ajusta este valor para aumentar o disminuir el tamaño del ícono */
     margin-bottom: 10px; /* Añade espacio debajo del ícono */
 }
 
@@ -34,14 +34,14 @@ body, .content {
     gap: 15px; /* Espacio entre los elementos */
 }
 
-/* Si quieres que los iconos estén encima del texto */
+/* Colocar los íconos encima del texto */
 .about-links .about-link {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
 }
-
+ 
 
 /*----------------------------------------------------------------------
 
@@ -50,6 +50,8 @@ a {
   color: #F8AA0D; /* Color para enlaces normales */
   text-decoration: none; /* Opcional: elimina el subrayado */
 }
+
+/*----------------------------------------------------------------------
 
 /* Cambiar el color del texto en el navbar */
 .navbar {
@@ -65,16 +67,5 @@ a {
   color: white; /* Opcional: color más claro al pasar el cursor */
 }
 
-/* Cambiar el color del texto en el footer */
-.page-footer {
-  color: white; /* Cambiar color de texto a blanco */
-}
+#footer p {color: white;}
 
-.page-footer a {
-  color: white; /* Cambiar color de enlaces en el footer a blanco */
-  text-decoration: none; /* Opcional: elimina subrayado */
-}
-
-.page-footer a:hover {
-  color: white; /* Opcional: color más claro al pasar el cursor */
-}

@@ -5,10 +5,13 @@ lang: en # Idioma
 image: media/foto_perfil.jpg    
 toc: false
 about: 
-  template: jolla # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
+  template: solana # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
   #image-shape: round
-  image-width: 15em
+  image-width: 18em
   links:
+    - icon: file-person
+      text: CV
+      href: https://drive.google.com/file/d/1jWaOINnhMDTnIcwmj8ss9moyMpzmacYm/view?usp=sharing
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/
@@ -17,7 +20,10 @@ about:
       href: https://github.com/ivanrodc
     - icon: envelope-at-fill
       text: Email
-      href: mailto:ivan.rodriguezcruz@ucr.ac.cr
+      href: mailto:ivanrocruz27@gmail.com
+# Usando algunas extenciones se pueden poner iconos de google, facebook, etc en el texto: https://quarto.org/docs/extensions/
 ---
 
-Bachelor in Statistics from the [University of Costa Rica (UCR)](https://www.ucr.ac.cr/), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science.
+Bachelor in Statistics from the [University of Costa Rica (UCR)](https://www.ucr.ac.cr/), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research (Instituto de Investigaciones Sociales, IIS)](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, and applied multivariate statistics for the social sciences. When I'm not studying, I create charts with `ggplot2`.
+
+{{< bi geo-fill size=1em >}} Cartago, Costa Rica.
