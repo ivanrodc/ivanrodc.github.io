@@ -32,7 +32,7 @@ website:
         href: https://github.com/ivanrodc
     left:
       - text: "CV"
-        file: documentos/personal/about.qmd
+        file: documentos/personal/CV.qmd
       - text: "Publications"
       - text: "Talks"
       - text: "Contact"
