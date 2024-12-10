@@ -11,6 +11,39 @@ body, .content {
     font-family: 'Poppins', sans-serif;
 }
 
+/*----------------------------------------------------------------------
+
+/* AJUSTAR LOS ICONOS Y TEXTO DEL INDEX.QMD
+
+/* Aumentar el tamaño de los iconos */
+.about-links .about-link-text {
+    font-size: 1.2em; /* Ajusta este valor para aumentar o disminuir el tamaño del texto */
+}
+
+.about-links .about-link-icon {
+    font-size: 1.5em; /* Ajusta este valor para aumentar o disminuir el tamaño del ícono */
+    margin-bottom: 10px; /* Añade espacio debajo del ícono */
+}
+
+/* Alinear los enlaces en una columna vertical */
+.about-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; /* Espacio entre los elementos */
+}
+
+/* Si quieres que los iconos estén encima del texto */
+.about-links .about-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+/*----------------------------------------------------------------------
+
 /* Cambiar color de los enlaces */
 a {
   color: #F8AA0D; /* Color para enlaces normales */

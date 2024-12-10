@@ -23,7 +23,7 @@ website:
     background: "#182A48" # Color de la barra de navegación; color azul de Google.
     #foreground: "light" # Color del texto en la barra de navegación.
     search: true 
-    position: fixed 
+    position: fixed   
     pinned: true
     right:
       - icon: linkedin 
