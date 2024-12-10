@@ -1,8 +1,14 @@
 /* css styles */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 /* Cambiar la fuente de toda la página a Arial */
 body {
-  font-family: Poppins, sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+body, .content {
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Cambiar color de los enlaces */
