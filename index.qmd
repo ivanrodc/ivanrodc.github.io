@@ -7,7 +7,7 @@ toc: false
 about: 
   template: jolla # Temas por defecto: https://quarto.org/docs/websites/website-about.html#templates
   #image-shape: round
-  image-width: 15em
+  image-width: 20em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -21,18 +21,3 @@ about:
 ---
 
 Bachelor in Statistics from the [University of Costa Rica (UCR)](https://www.ucr.ac.cr/), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the [Anker Research Institute](https://www.ankerresearchinstitute.org/) and Research Assistant at the [Institute of Social Research](https://iis.ucr.ac.cr/) of the UCR. My research interests include inequality and poverty studies, wage studies, applied multivariate statistics for the social sciences, and data science.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
