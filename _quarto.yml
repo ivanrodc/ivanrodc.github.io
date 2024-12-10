@@ -31,11 +31,9 @@ website:
       - icon: github
         href: https://github.com/ivanrodc
     left:
-      - text: "CV"
-        file: documentos/personal/CV.qmd
-      - text: "Publications"
-      - text: "Talks"
-      - text: "Contact"
+      - href: index.qmd
+        text: Home
+      - documentos/personal/CV.qmd
 
   page-footer:
     border: true
@@ -51,7 +49,7 @@ format:
       light: flatly
       dark: flatly
     css: styles.css
-    toc: true
+    #toc: true
 
 editor: visual 
 
