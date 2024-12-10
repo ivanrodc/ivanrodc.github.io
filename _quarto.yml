@@ -22,7 +22,7 @@ website:
     back-to-top-navigation: false # Dejar fija la barra de navegación.
     background: "#182A48" # Color de la barra de navegación; color azul de Google.
     #foreground: "light" # Color del texto en la barra de navegación.
-    search: true
+    search: true 
     position: fixed 
     pinned: true
     right:

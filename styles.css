@@ -22,7 +22,7 @@ a {
 }
 
 .navbar a:hover {
-  color: #cccccc; /* Opcional: color más claro al pasar el cursor */
+  color: white; /* Opcional: color más claro al pasar el cursor */
 }
 
 /* Cambiar el color del texto en el footer */
