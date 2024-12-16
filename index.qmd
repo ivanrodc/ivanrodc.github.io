@@ -11,7 +11,7 @@ about:
   links:
     - icon: file-person
       text: CV
-      href: https://drive.google.com/file/d/1jWaOINnhMDTnIcwmj8ss9moyMpzmacYm/view?usp=sharing
+      href: https://drive.google.com/file/d/1DpUCAHZ5Pw0W8A_wAl4btbrLW75qh7GB/view?usp=drive_link
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/

@@ -2,19 +2,16 @@
 title: "CV and Resume"
 toc: false
 # Agregar PDF: https://github.com/jmgirard/embedpdf?tab=readme-ov-file
+# Actualización: 15 de diciembre de 2024
 ---
 
 # CV
 
-::: {.callout-note}
-[See my CV here.](https://drive.google.com/file/d/1jWaOINnhMDTnIcwmj8ss9moyMpzmacYm/view?usp=sharing)
-:::
+{{< pdf CV.pdf width=100% height=600 >}}
 
 
 # Resume
 
-See my Resume in the following document:
-
-{{< pdf Resume_idrc.pdf width=100% height=600 >}}
+{{< pdf Resume.pdf width=100% height=600 >}} 
 
 
