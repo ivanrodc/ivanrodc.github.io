@@ -34,6 +34,7 @@ website:
       - href: index.qmd
         text: Home
       - documentos/personal/CV.qmd
+      - documentos/personal/contact.qmd
 
   page-footer:
     border: false
@@ -47,8 +48,8 @@ format:
   html:
     theme: 
       light: flatly
-      dark: dark
     css: styles.css
+    linkcolor: "#3081D0" # hyperlink
     #toc: true
 
 editor: visual 
