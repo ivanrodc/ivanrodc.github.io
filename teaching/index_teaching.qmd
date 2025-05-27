@@ -2,6 +2,12 @@
 title: "Teaching"
 ---
 
-# Cursos
+## Nombre del curso
 
-## Principios de Inferecia Estadística (XS1130): II-2025
+|              Tema              | Lección | Laboratorio | Base de datos |
+|:------------------------------:|:-------:|:-----------:|:-------------:|
+| Distribuciones de probabilidad |         |             |               |
+|                                |         |             |               |
+|                                |         |             |               |
+
+: Lecciones, laboratorios y bases de datos.
