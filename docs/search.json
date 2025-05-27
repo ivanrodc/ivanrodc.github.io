@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Iván Daniel Rodríguez Cruz",
+    "objectID": "documentos/personal/contact.html",
+    "href": "documentos/personal/contact.html",
+    "title": "Contact me",
     "section": "",
-    "text": "Bachelor of Science in Statistics from the University of Costa Rica (UCR), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the Anker Research Institute and Research Assistant at the Institute of Social Research (Instituto de Investigaciones Sociales, IIS) of the UCR. My research interests include inequality and poverty studies, wage studies, and applied multivariate statistics for the social sciences. When I’m not studying, I create charts with ggplot2.\n Cartago, Costa Rica."
+    "text": "If you have any questions or comments, feel free to fill out the form below:\n\n\nFull Name  Email Address  Message"
   },
   {
     "objectID": "documentos/personal/CV.html",
@@ -14,17 +14,10 @@
     "text": "CV\nDownload PDF file.\n\n\nResume\nDownload PDF file."
   },
   {
-    "objectID": "documentos/personal/contact.html",
-    "href": "documentos/personal/contact.html",
-    "title": "Contact me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iván Daniel Rodríguez Cruz",
     "section": "",
-    "text": "If you have any questions or comments, feel free to fill out the form below:\n\n\nFull Name  Email Address  Message"
-  },
-  {
-    "objectID": "documentos/personal/contact.html#contact-me",
-    "href": "documentos/personal/contact.html#contact-me",
-    "title": "CV",
-    "section": "",
-    "text": "If you have any questions or comments, feel free to fill out the form below:\n\n\nFull Name  Email Address  Message"
+    "text": "Bachelor of Science in Statistics from the University of Costa Rica (UCR), with graduation scheduled for February 2025. Currently, I perform research roles in two academic institutions: Junior Researcher at the Anker Research Institute and Research Assistant at the Institute of Social Research (Instituto de Investigaciones Sociales, IIS) of the UCR. My research interests include inequality and poverty studies, wage studies, and applied multivariate statistics for the social sciences. When I’m not studying, I create charts with ggplot2.\n Cartago, Costa Rica."
   }
 ]

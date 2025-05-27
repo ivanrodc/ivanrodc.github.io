@@ -35,6 +35,7 @@ website:
         text: Home
       - documentos/personal/CV.qmd
       - documentos/personal/contact.qmd
+      - teaching/index_teaching.qmd
 
   page-footer:
     border: false
